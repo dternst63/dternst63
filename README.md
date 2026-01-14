@@ -31,7 +31,7 @@ Senior Frontend / Full-Stack Developer
 **Tech:** React, Node.js, MongoDB  
 A tabletop RPG NPC management system with modal-based forms, validation, and campaign support.
 
-🔗 Repo: https://github.com/yourusername/npc-registry  
+🔗 Repo: https://github.com/dternst63/npc-registry  
 🔗 Demo: (coming soon)
 
 # NPC Registry
