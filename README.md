@@ -62,20 +62,11 @@ npm run dev
 
 ---
 
-### 🏕️ CampSpotFinder
-**Tech:** Angular, Firebase  
-Find and share free boondocking and off-grid camping locations.
+### Hardening Probe
+**Tech:** Python, Linux
+Built a lightweight Linux hardening probe in Python that captures system security snapshots and performs change-based risk analysis across runs. Designed as a read-only inspection tool for virtual machines and AWS EC2 environments, with an emphasis on safety, portability, and minimal dependencies.
 
-🔗 Repo: https://github.com/yourusername/campspotfinder
-
----
-
-### 📰 RSS Aggregator
-**Tech:** Angular, Node.js, MongoDB  
-Scheduled polling of news feeds with categorization and search.
-
-🔗 Repo: https://github.com/yourusername/rss-aggregator
-
+🔗 Repo: https://github.com/dternst63/python-project
 ---
 
 ## 📫 Contact
